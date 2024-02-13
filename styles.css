@@ -2,7 +2,7 @@
       font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
       color: #fff;
       background: #111;
-      margin: 20vh;
+/*       margin: 20vh; */
       padding: 1em 2em;
     }
 
@@ -62,7 +62,7 @@
 
     article {
       position: absolute;
-      top: -18vw;
+      top: -100vw;
       transition: 2000ms;
 
     }
